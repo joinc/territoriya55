@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.browserslistrc
+.eslintrc.js
+package-lock.json
+src/assets/
